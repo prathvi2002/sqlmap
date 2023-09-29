@@ -7,6 +7,8 @@ See the file 'LICENSE' for copying permission
 
 from __future__ import print_function
 
+print("hola amigo")
+
 try:
     import sys
 
